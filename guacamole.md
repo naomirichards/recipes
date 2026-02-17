@@ -4,3 +4,4 @@
 * lime Cost 2
 * salt Cost 0.5
 ##Instructions
+* peel avocados
