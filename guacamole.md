@@ -5,3 +5,4 @@
 * salt Cost 0.5
 ##Instructions
 * put avocado in bowl
+* peel avocadose
